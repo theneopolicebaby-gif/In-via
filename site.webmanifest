@@ -1,0 +1,16 @@
+{
+  "name": "Invia E-Sports",
+  "short_name": "Invia",
+  "description": "Official site for Invia E-Sports.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07070c",
+  "theme_color": "#08080d",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

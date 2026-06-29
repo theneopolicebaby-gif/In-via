@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Invia E-Sports social preview</title>
+  <desc id="desc">Open graph preview artwork for Invia E-Sports.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07070c"/>
+      <stop offset="0.52" stop-color="#181427"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#b694ff"/>
+      <stop offset="1" stop-color="#4d19b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 452 150 314l170 56 190-138 220 236 170-110 154 58 146-126v340H0Z" fill="#252326" opacity="0.72"/>
+  <circle cx="940" cy="150" r="260" fill="#8c4dff" opacity="0.16"/>
+  <g transform="translate(850 344) scale(1.1)" opacity="0.35">
+    <path d="M0-102c-60 23-88 78-66 126 25 53 96 63 132 16 33-44 10-113-66-142Z" fill="none" stroke="#f8f7fb" stroke-width="22"/>
+    <path d="M-72 12c50 34 100 31 148-8M-272 22c97-16 162-55 206-126M272 22C175 6 110-33 66-104" fill="none" stroke="#f8f7fb" stroke-width="32" stroke-linecap="round"/>
+    <path d="M0 8 130 82 56 236h-112l-74-154Z" fill="none" stroke="#f8f7fb" stroke-width="28" stroke-linejoin="round"/>
+  </g>
+  <text x="78" y="214" fill="#ffffff" font-family="Impact, Arial Black, sans-serif" font-size="132">INVIA</text>
+  <text x="84" y="306" fill="#d9dde6" font-family="Impact, Arial Black, sans-serif" font-size="70">E-SPORTS</text>
+  <rect x="84" y="346" width="286" height="6" fill="url(#violet)"/>
+  <text x="84" y="412" fill="#b8b5c1" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Fortnite Competitive Team</text>
+  <text x="84" y="464" fill="#7db7ff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">@Invia_FN</text>
+</svg>

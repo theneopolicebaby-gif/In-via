@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theneopolicebaby-gif.github.io/In-via/sitemap.xml
