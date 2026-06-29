@@ -33,6 +33,6 @@ Invia E-Sportsの公開準備用サイトです。日本人向けの公式サイ
 
 ## 公開チェックリスト
 
-1. GitHub Pagesで `https://theneopolicebaby-gif.github.io/In-via/` に公開する。
+1. GitHub Pagesで `https://invia-esports.com/` に公開する。
 2. Google Search Consoleにサイトを登録する。
 3. トップページのインデックス登録をリクエストする。
